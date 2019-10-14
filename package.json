@@ -1,0 +1,16 @@
+{
+  "name": "mcc-mnc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mcc-mnc-list": "^1.0.82",
+    "mysql": "^2.17.1"
+  }
+}
